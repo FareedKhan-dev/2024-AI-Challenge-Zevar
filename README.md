@@ -9,6 +9,25 @@
 
 Basiclingua is a LLM based Python library that provides functionalities for linguistic tasks such as pattern extractions, intent recognition and many others, (**Imagination is the limit**).
 
+<!-- omit in toc -->
+## Table of Content
+- [Why Building this Project?](#why-building-this-project)
+- [BasicLingua Architecture](#basiclingua-architecture)
+- [Evaluation Metrics](#evaluation-metrics)
+- [AI Powered / Manual Documentation](#ai-powered--manual-documentation)
+- [Tools and Technologies Used](#tools-and-technologies-used)
+- [Updates](#updates)
+- [Demo Video](#demo-video)
+- [File Structure](#file-structure)
+- [Installation / Update](#installation--update)
+- [Initialization](#initialization)
+- [Supported LLMs](#supported-llms)
+- [Usage](#usage)
+- [Features of the library](#features-of-the-library)
+- [Playground](#playground)
+- [Acknowledgements](#acknowledgements)
+
+
 ## Why Building this Project?
 
 The problem that I plan to tackle is the increasing complexity and difficulty of handling text data as its size and complexity increase. NLP libraries that offer solutions are either limited in their ability to solve the required problem or require a great deal of human intervention to handle text data. We have used Multiple Language Models (Both Open-Source and Closed Source), which have demonstrated promising results in dealing with text data, to address the complexity that no NLP library has yet solved. As a result, we will be able to handle text-related tasks with minimal human intervention. We have created a powerful NLP library capable of solving any type of human text-related task, producing accurate results.
@@ -105,24 +124,6 @@ The project files are organized as follows:
 ├── LICENSE               <-- MIT License
 ├── README.md             <-- Project README
 ```
-
-<!-- omit in toc -->
-## Table of Content
-- [Why Building this Project?](#why-building-this-project)
-- [BasicLingua Architecture](#basiclingua-architecture)
-- [Evaluation Metrics](#evaluation-metrics)
-- [AI Powered / Manual Documentation](#ai-powered--manual-documentation)
-- [Tools and Technologies Used](#tools-and-technologies-used)
-- [Updates](#updates)
-- [Demo Video](#demo-video)
-- [File Structure](#file-structure)
-- [Installation / Update](#installation--update)
-- [Initialization](#initialization)
-- [Supported LLMs](#supported-llms)
-- [Usage](#usage)
-- [Features of the library](#features-of-the-library)
-- [Playground](#playground)
-- [Acknowledgements](#acknowledgements)
 
 ## Installation / Update
 
