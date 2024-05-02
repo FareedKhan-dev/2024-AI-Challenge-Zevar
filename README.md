@@ -169,13 +169,16 @@ Import All Models at Once
 from basiclingua import OpenAILingua, GeminiLingua, AnyScaleLingua
 ```
 
-Before using any model, you must set the API key for that specific platform. This is a mandatory step. Each model class has a constructor that takes the API key and optional additional parameters, such as model names.
+**Option 1** - Since this project is for AI Challenge 2024, we have provided free API keys for models to quickly evaluate the library.
 
-**Gemini 1.0** Model is available for free within API limits, while AnyScale offer $10 free credit to get started.
+You can find the keys for each model from the following link: [API Keys Link](https://docs.google.com/spreadsheets/d/1JLWYEQqS5QfXTm8zghNDZ_z_t8dHpyV3H9c37UWOF1A/edit#gid=0)
 
+**Option 2** - You can create your own API keys from the respective platforms.
 * Get your OpenAI API Key from [OpenAI Platform](https://platform.openai.com/api-keys)
 * Get your Gemini api key from [Gemini Platform](https://aistudio.google.com/app/apikey)
 * Get anyscale api key from [AnyScale Platform](https://app.endpoints.anyscale.com/credentials)
+
+Before using any model, you must set the API key for that specific platform. This is a mandatory step. Each model class has a constructor that takes the API key and optional additional parameters, such as model names.
 
 **For Initializing OpenAI**
 ```python
