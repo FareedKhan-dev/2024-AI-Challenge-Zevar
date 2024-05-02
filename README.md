@@ -104,7 +104,9 @@ You can also access the manual documentation within your code editor which conta
 
 Project demo video showcasing some of the functionalities provided by the library.
 
-[![Watch the video](images/demo-video.png)](https://www.youtube.com/watch?v=mkpkMyUuCd8&feature=youtu.be)
+https://github.com/FareedKhan-dev/2024-AI-Challenge-Zevar/assets/63067900/ebc3ff6e-7a07-43e2-96b3-f02dd4473ed1
+
+
 
 ## File Structure
 
